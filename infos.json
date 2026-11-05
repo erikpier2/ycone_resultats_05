@@ -1,0 +1,575 @@
+{
+  "groupe1": {
+    "titre": "Sprint rég. Open Mulhouse(68) 08/05",
+    "textes": [
+    ""      
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://comulhouse.fr/wp-content/uploads/2026/05/sprint_open_cat.html"
+      },
+      {
+        "texte": "Temps intermédiaires",
+        "url": "https://comulhouse.fr/wp-content/uploads/2026/05/sprint_open_inter.html"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },      
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "06/11/2026 00:23"
+  },
+
+  "groupe2": {
+    "titre": "Chpt de France MD Bourbach-le-Bas(68) 09/05",
+    "textes": [
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://comulhouse.fr/wp-content/uploads/2026/05/cfmd_cat.html"
+      },
+      {
+        "texte": "Temps intermédiaires",
+        "url": "https://comulhouse.fr/wp-content/uploads/2026/05/cfmd_cat_inter.html"
+      }
+    ],
+    "maj": "06/11/2026 00:23"
+  },
+
+  "groupe3": {
+    "titre": "MD Open Bourbach-le-Bas(68) 09/05",
+    "textes": [
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://comulhouse.fr/wp-content/uploads/2026/05/md_open_cat.html"
+      },
+      {
+        "texte": "Temps intermédiaires",
+        "url": "https://comulhouse.fr/wp-content/uploads/2026/05/md_open_cat_inter.html"
+      }
+    ],
+    "maj": "06/11/2026 00:23"
+  },
+
+    "groupe4": {
+    "titre": "CFC chpt France des Clubs Relais Bourbach-le-Bas(68) 10/05",
+    "textes": [
+      "",
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://comulhouse.fr/wp-content/uploads/2026/05/cfc.html"
+      },
+      {
+        "texte": "Temps intermédiaires",        
+        "url": "https://comulhouse.fr/wp-content/uploads/2026/05/cfc_inter.html"
+      },
+      {
+        "texte": "Course des Pipele",
+        "url": "https://comulhouse.fr/wp-content/uploads/2026/05/pipele.html"
+      },
+      {
+        "texte": "Temps intermédiaires",
+        "url": "https://comulhouse.fr/wp-content/uploads/2026/05/pipele_inter.html"
+      }
+    ],
+    "maj": "06/11/2026 00:23"
+  },
+
+  "groupe5": {
+    "titre": "Raid O'bivwak Oyonnax(01) 23/05",
+    "textes": [
+      "" 
+    ],
+    "liens": [
+      {        "texte": "Résultats",        
+        "url": "https://drive.google.com/file/d/1umiWPYSs9cFaRkbsPIs_McAy6_BTW5BF/view?usp=sharing"
+      },
+      {         "texte":"",
+        "url":""
+      },      
+      {
+        "texte": "",        
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "06/11/2026 00:23"
+  },
+  "groupe6": {
+    "titre": "Chpt de Ligue LD Pasques(21) 31/05",
+    "textes": [
+      "",
+      "",
+      ""     
+        ],
+    "liens": [
+      {
+        "texte": "Résultats Catégories",
+        "url": "https://drive.google.com/file/d/1npJ4EVHQtJ2uJW9gbwpXORBueOrJ5oph/view?usp=sharing"
+      },
+      {
+        "texte": "Temps intermédiaires",
+        "url": "https://drive.google.com/file/d/1h8hmM0w9ti5RGENR8TcsawEd0XpXkG2s/view?usp=sharing"
+      },      
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "06/11/2026 00:23"
+  },
+  "groupe7": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe8": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe9": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe10": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe11": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe12": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe13": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe14": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe15": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe16": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe17": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe18": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe19": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe20": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  }  
+}
